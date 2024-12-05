@@ -1,0 +1,15 @@
+Technology, https://www.theverge.com/tech
+Technology, https://techcrunch.com/
+Technology, https://www.wired.com/category/technology/
+Technology, https://www.engadget.com/
+Technology, https://www.cnet.com/topics/tech-industry/
+Cybersecurity, https://www.cyberscoop.com/
+Cybersecurity, https://www.darkreading.com/
+Cybersecurity, https://www.csoonline.com/
+Cybersecurity, https://threatpost.com/
+Cybersecurity, https://www.securityweek.com/
+Health, https://www.nih.gov/news-events/nih-research-matters
+Health, https://www.medicalnewstoday.com/
+Health, https://www.healthline.com/
+Health, https://www.webmd.com/
+Health, https://www.mayoclinic.org/
